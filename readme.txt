@@ -1,5 +1,5 @@
-Git version change to 1.0.5
-Git version 1.0.5
+Git version change to 1.0.6
+Git version 1.0.6
 Git no
 Git change
 Git change second
