@@ -1,6 +1,6 @@
-Git version change to 1.0.6
-Git version 1.0.6
-Git no
+Git version change to 1.0.8
+Git version 1.0.8
+Git ok
 Git change
 Git change second
 Git change third
