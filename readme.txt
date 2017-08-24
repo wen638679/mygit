@@ -16,3 +16,4 @@ git change five dev
 git change six dev
 git change sever dev
 get change eight dev
+git change one clone dev
