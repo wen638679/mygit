@@ -1,4 +1,5 @@
 this is second file firt write
-write ok
+write no
 git change first dev
 git change seconde dev
+git change  one clone dev

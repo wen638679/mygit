@@ -1,6 +1,6 @@
-Git version change to 1.0.8
-Git version 1.0.8
-Git ok
+Git version change to 1.0.9
+Git version 1.0.9
+Git no
 Git change
 Git change second
 Git change third
@@ -15,3 +15,5 @@ git change four dev
 git change five dev
 git change six dev
 git change sever dev
+get change eight dev
+git change one clone dev
